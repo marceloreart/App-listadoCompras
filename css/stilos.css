@@ -1,0 +1,40 @@
+#pantallaDetalle, #pantallaListado {
+    display: none;
+}
+
+#botonCarga{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+    border-radius: 50%;
+}
+
+header{
+    background: cornflowerblue;
+    height: 85px;
+}
+
+#pantallaVacio{
+    text-align: center;
+    padding: 70px;
+}
+
+#pantallaVacio__emoji{
+    font-size: 250px;
+}
+
+.pantallaListado__icono{
+    width: 40px;
+    margin-right: 6px;
+}
+
+#pantallaDetalle{
+    padding: 50px;
+    text-align: center;
+}
+
+.pantallaDetalle__icono{
+    width: 250px;
+}
